@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Motivated and driven B.Tech student pursuing a degree in [computer Engineering] at Marwadi University. Passionate about technology and eager to contribute to innovative projects. Skilled in Javascript NodeJS ReactJS MongoDB Express Java HTML CSS. Strong public speaking abilities and a knack for effectively conveying complex concepts. Constantly seeking opportunities to learn and grow.
+.</h2>
 
 ###
 
