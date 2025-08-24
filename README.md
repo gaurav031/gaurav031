@@ -1,6 +1,17 @@
 # 💫 About Me:
-👋 Hey there! I'm Gaurav Kumar, a passionate B.Tech student pursuing Computer Engineering. Currently in my Final year, I'm deeply immersed in the world of software development. My journey began with a fascination for problem-solving, which led me to explore various programming languages and technologies.<br><br>🚀 I specialize in JavaScript, React, Node.js, Express.js, and MongoDB, crafting dynamic and efficient web applications. With a solid foundation in Java and SQL, I thrive on building robust backend systems and database management solutions. Additionally, I have a knack for crafting beautiful and responsive user interfaces using HTML and CSS.<br><br>🔍 Always eager to learn and grow, I actively seek out opportunities for collaboration and knowledge sharing. Whether it's contributing to open-source projects or teaming up on exciting ventures, I'm committed to leveraging my skills to make a meaningful impact.<br><br>💼 Currently on the lookout for collaboration opportunities, I'm keen to work on innovative projects and contribute to the ever-evolving tech landscape. Let's connect and create something awesome together!
+👋 Hey there! I'm Gaurav Kumar, a passionate B.Tech Computer Engineering student in my final year, deeply immersed in the world of software development. My journey began with a fascination for problem-solving, which led me to explore diverse programming languages and technologies.
 
+🚀 I specialize in JavaScript, React, Node.js, Express.js, and MongoDB, PostgreSQL, crafting dynamic and efficient web applications. With a strong foundation in Java and SQL, I enjoy building robust backend systems and scalable database solutions. I also have expertise in designing responsive and user-friendly interfaces using HTML, CSS, and modern frontend tools.
+
+💼 Professionally, I’ve gained valuable industry experience through internships:
+
+✅ Software Development Engineer Intern at StartingPoint Solutions (Feb 2024 – Present), where I work on full-stack projects using React, JavaScript, Node.js, Express.js, PostgreSQL, Strapi CMS, Keycloak, and Docker.
+
+✅ AI Intern with the Indian Army (Nov 2024 – Jan 2025), contributing to research-driven projects in artificial intelligence.
+
+🔍 Always eager to learn and grow, I actively seek opportunities for collaboration and knowledge sharing. Whether it's contributing to open-source projects or working on innovative ventures, I’m committed to leveraging my skills to make a meaningful impact.
+
+🌟 Currently, I’m looking forward to exploring exciting collaboration and project opportunities in the ever-evolving tech landscape. Let’s connect and create something impactful together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-3966941b5) 
