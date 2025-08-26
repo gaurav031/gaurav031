@@ -5,7 +5,7 @@
 
 💼 Professionally, I’ve gained valuable industry experience through internships:
 
-✅ Software Development Engineer Intern at StartingPoint Solutions (Feb 2024 – Present), where I work on full-stack projects using React, JavaScript, Node.js, Express.js, PostgreSQL, Strapi CMS, Keycloak, and Docker.
+✅ Software Development Engineer Intern at StartingPoint Solutions (Feb 2025 – Present), where I work on full-stack projects using React, JavaScript, Node.js, Express.js, PostgreSQL, Strapi CMS, Keycloak, and Docker.
 
 ✅ AI Intern with the Indian Army (Nov 2024 – Jan 2025), contributing to research-driven projects in artificial intelligence.
 
